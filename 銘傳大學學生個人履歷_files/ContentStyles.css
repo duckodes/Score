@@ -1,0 +1,63 @@
+﻿.SideMenu
+{
+	width: 100%;
+}
+
+.SideMenuGroupSpacer
+{
+	height: 10px;
+}
+
+.SideMenuGroupBullet
+{
+	width: 15px;
+	height: 20px;
+	cursor: default;
+	background-color: #ead28a;
+}
+
+.SideMenuGroup
+{
+	height: 20px;
+	cursor: default;
+	background-color: #ead28a;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 4px;
+	padding-top: 4px;
+}
+
+.SideMenuGroup A
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #333333;
+}
+
+.SideMenuGroup A:Hover
+{
+	font-weight: bold;
+	color: #cc0000;
+	text-decoration: underline;
+}
+
+.SideMenuItem
+{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	cursor: pointer;
+}
+
+.SideMenuItem A
+{
+	color: #333333;
+	text-decoration: underline;
+}
+
+.SideMenuItem A:Hover
+{
+	color: #cc0000;
+	text-decoration: underline;
+}

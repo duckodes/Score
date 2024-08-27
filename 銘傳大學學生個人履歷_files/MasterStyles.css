@@ -1,0 +1,160 @@
+
+/* MASTER LAYOUT **********************************************************************/
+.MasterBody
+{
+	background-image: url(/App_Themes/McuRed/Img/Master/Background_Side.gif);
+	margin: 10px 0px;
+	padding: 0px;
+	/*background-color:#f6f6f6;*/
+}
+
+.Centered
+{
+	width: 970px;
+	margin: 0px auto;
+}
+
+
+.FooterText
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.TopLinks A
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.TopLinks A:Hover
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.TopLinksDivierSpacing
+{
+	position: relative;
+	top: 1px;
+}
+
+
+.HomeLinks
+{
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	/*color: #868585;*/
+	color:White;
+}
+
+.HomeLinks A
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	/*color: #868585;*/
+	color:White;
+}
+
+.HomeLinks A:Hover
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-weight: bold;
+	font-size: 12px;
+	color: #cc0000;
+}
+
+.LoggedInUser Span
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #868585;
+}
+
+.Logout A
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #868585;
+}
+
+.Logout A:Hover
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #cc0000;
+}
+
+.GridViewLink A
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-size: 12px;
+	color: #002658;
+}
+
+.GridViewLink A:Hover
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-size: 12px;
+	color: #cc0000;
+}
+
+.HeaderLinks
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #043404;
+	vertical-align: 4px;
+}
+
+.HeaderLinks:Hover
+{
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 12px;
+	color: #043404;
+	vertical-align: 4px;
+}
+
+
+.SmallLinks
+{
+	text-decoration: none;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 11px;
+	color: #333333;
+	vertical-align: 4px;
+}
+
+.SmallLinks:Hover
+{
+	text-decoration: underline;
+	font-family: Arial;
+	font-weight: normal;
+	font-size: 11px;
+	color: #cc0000;
+	vertical-align: 4px;
+}

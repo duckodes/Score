@@ -1,0 +1,62 @@
+﻿/*Extras*/
+
+.TransparentButton
+{
+	border: none;
+	height: 34px;
+	width: 33px;
+	background-color: #f4f4f4;
+	cursor: hand;
+}
+
+/*IFrame*/
+.ScrollbarBar
+{
+    scrollbar-base-color: #DEDAF2;
+    scrollbar-arrow-color: #F9F9F9;
+    scrollbar-3dlight-color: #656D82;
+    scrollbar-darkshadow-color: #F2EFF0;
+    scrollbar-face-color: #C9D8E5;
+    scrollbar-highlight-color: #F9F9F9;
+    scrollbar-shadow-color: #4F619E;
+    scrollbar-track-color: #EFEFFF;
+}
+
+/*Default SelectLaungaue*/
+.SchoolAddress
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+	line-height: 1.5;
+	padding-left: 10px;
+	padding-top: 3px;
+	letter-spacing: 1px;
+}
+
+
+/*Propaganda*/
+.Symbol
+{
+    font-family: Verdana, Arial;
+    font-weight:bold;
+    font-size: 12px; 
+    color:#3E7DBC;
+}
+
+.Quote
+{
+    font-family: Verdana, Arial; 
+    font-size: 12px; 
+    color:#64962D;
+    letter-spacing:1;
+}
+
+/*Founder*/
+.RotatorImage
+{
+    margin:0px 11px;
+    cursor:hand;
+    cursor: pointer;
+}

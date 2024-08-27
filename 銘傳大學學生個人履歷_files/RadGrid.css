@@ -1,0 +1,179 @@
+﻿.RadGrid
+{
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	vertical-align: Top;
+}
+
+.RadGrid a
+{
+	color: WindowText;
+	text-decoration: none;
+}
+
+.RadGrid a:hover
+{
+	text-decoration: underline;
+}
+
+.MasterTable
+{
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	vertical-align: Top;
+}
+
+.GroupPanel
+{
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	vertical-align: Top;
+}
+
+.GridPager
+{
+	background-color: #EBEBEB;
+	color: White;
+	text-align: center; /*HorizontalAlign: Center;*/
+}
+
+.GridHeader
+{
+	background-color: #5D7B9D;
+	font: bold;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: White;
+	vertical-align: middle;
+	text-align: left; /*HorizontalAlign: Left;*/
+	padding: 4 4 4 4;
+	border: #cccccc 1px solid;
+	height: 20px;
+}
+
+.GridHeader INPUT
+{
+	font-size: 12px;
+	margin-right: 2px;
+	vertical-align: middle;
+	width: 60;
+}
+
+.GridFooter
+{
+	background-color: #5D7B9D;
+	font: bold;
+	color: White;
+}
+
+.GridFooter TD
+{
+	border: 1px outset ButtonFace;
+}
+
+.GroupPanelItems
+{
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	vertical-align: Top;
+}
+
+.GroupHeader
+{
+	background-color: #5D7B9D;
+	font: bold;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: White;
+	vertical-align: middle;
+	text-align: left; /*HorizontalAlign: Left;*/
+}
+
+.GroupHeader td
+{
+	border: 0px;
+	border-bottom: 1px outset ButtonFace;
+}
+
+.GridRow
+{
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	padding: 4 4 4 4;
+	border: 1px;
+}
+
+.AlternatingGridRow
+{
+	background-color: White;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #284775;
+	
+	padding: 4 4 4 4;
+	border: 1px;
+}
+
+.SelectedItem
+{
+	background-color: #ffffe1;
+}
+
+.ResizeItem
+{
+	background-color: #f8f6f0;
+	border-top: 1px solid white;
+	background-image: none;
+	
+}
+
+.FilterTextBox TD INPUT
+{
+	border: solid 1px #cccccc;
+	padding-left: 2px;
+	font-size: 12px;
+	vertical-align: middle;
+	color: #333333;
+	padding-top: 2px;
+	font-family: Arial, Helvetica, sans-serif;
+	width:100px;
+	height:15px;
+	background-color: #ffffff;
+}
+
+.FilterTextBox TD IMG
+{
+	position:relative;
+	top:5px;
+}
+
+
+.NoRecordsRowStyle
+{
+	text-align: center;
+	background-color: #F7F6F3;
+	font-family: Arial,Helvetica;
+	font-size: 12px;
+	color: #333333;
+	vertical-align:baseline;
+	border-bottom:solid 1px #9C9C9C;
+	border-right:solid 1px #9C9C9C;
+	border-top:solid 1px #E4E4E4;
+	border-left:solid 1px #E4E4E4;
+	height:20px;
+	font: bold;
+}
+
+
+
+

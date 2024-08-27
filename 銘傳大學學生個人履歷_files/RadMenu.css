@@ -1,0 +1,71 @@
+﻿.MenuGroup
+{
+    cursor: pointer;
+    cursor: hand;
+    background-color: #DFEEF4;
+    width: 120px;
+}
+
+.MenuItem
+{
+    font-family: Arial, Verdana;
+    font-size:11px;
+    cursor: pointer;
+    cursor: hand;
+    padding: 6px 0px 6px 7px;
+    background-repeat: no-repeat;
+    background-position : 7px center;
+    border: 1px solid #BFCDE3;
+    border-top: 1px solid white;    
+    -moz-box-sizing: border-box;
+    text-align: left;
+}
+
+.MenuItemDisabled 
+{
+    font-family: Arial, Verdana;
+    font-size:11px;
+    cursor: pointer;
+    cursor: hand;
+    padding: 6px 0px 6px 7px;
+    background-repeat: no-repeat;
+    background-position : 7px center;
+    border: 1px solid #BFCDE3;
+    border-top: 1px solid white;    
+    -moz-box-sizing: border-box;
+    text-align: left;
+    color:Gray;
+}
+
+.MenuItemOver
+{
+    font-family: Arial, Verdana;
+    font-size:11px;
+    cursor: pointer;
+    cursor: hand;
+    padding: 6px 0px 6px 7px;
+    background-repeat: no-repeat;
+    background-position : 7px center;
+    border: 1px solid #BFCDE3;
+    border-top: 1px solid white;
+    border-bottom: 1px solid #1973C9;
+    background-color: #A7CFE8;
+    text-align: left;
+}
+
+.MenuItemClicked
+{
+    font-family: Arial, Verdana;
+    font-size:11px;
+    cursor: pointer;
+    cursor: hand;
+    padding: 6px 0px 6px 7px;
+    background-repeat: no-repeat;
+    background-position : 7px center;
+    background-color: #BCE3FB;
+    border: 1px solid #BFCDE3;
+    border-top: 1px solid white;    
+    -moz-box-sizing: border-box;
+    text-align: left;
+}
+
